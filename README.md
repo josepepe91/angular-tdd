@@ -195,6 +195,7 @@ Shut it down manually with `Ctrl-C`.
 [travis-badge-url]: https://travis-ci.org/angular/quickstart
 
 # angular-tdd
+Based in:https://angular.io/guide/testing
 
 First Test
 1. Create a new file in /src/app
